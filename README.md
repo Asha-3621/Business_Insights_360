@@ -107,7 +107,7 @@ Analyzes:
  
 Evaluates:  
 - Segment profitability  
-- Net Profit by product category  
+- Net Profit by product category 
 - Gross margin bifurcation
 
 - ### 🚚 Supply Chain View  
